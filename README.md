@@ -130,4 +130,4 @@
 
 ## 10. References
 
--   **Sources:** [Reported Road Casualties Great Britain (RRCGB)](https://en.wikipedia.org/wiki/Reported_Road_Casualties_Great_Britain) from Wikipedia
+-   **See more of** [ my projects here](https://profjays.github.io/datarized/index.html#portfolio) and contact me if you desire a collaboration
